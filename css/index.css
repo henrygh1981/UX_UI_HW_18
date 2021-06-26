@@ -52,3 +52,6 @@ li {
 a, li {
     color: white;
 }
+.flexContainer {
+    display: flex;
+}
